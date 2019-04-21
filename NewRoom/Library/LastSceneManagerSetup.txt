@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/new_scene/House_on_the_lake_scene.unity
+  isLoaded: 1
+  isActive: 1
